@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageCapcture_speechToText</string>
+    <string name="title_activity_speech_module">speechModule</string>
+    <string name="title_activity_image_capture_module">ImageCaptureModule</string>
+</resources>
