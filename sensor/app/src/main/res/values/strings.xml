@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">sensor</string>
+    <string name="action_settings">Settings</string>
+    <string name="d_tv1">1st Text view</string>
+    <string name="d_tv2">2nd Text View</string>
+    <string name="d_tv3">3rd Text view</string>
+    <string name="d_tv4">4th Text View</string>
+    <string name="d_bt1">1st button</string>
+    <string name="d_bt2">2nd button</string>
+    <string name="d_bt3">3rd button</string>
+    <string name="d_bt4">4th button</string>
+</resources>
